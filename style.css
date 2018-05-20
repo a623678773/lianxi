@@ -1,0 +1,12 @@
+html,body{
+    margin: 0xp;
+    padding:0xp;
+}
+div{
+    padding: 40px;
+    width: 100%;
+    background: blue;
+}
+.left{
+    float: left;
+}
